@@ -137,7 +137,7 @@ html, body {
 }
 
 .hero h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     margin-bottom: 1.5rem;
     background: linear-gradient(45deg, #ff00ff, #ffffff);
     -webkit-background-clip: text;
